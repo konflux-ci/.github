@@ -12,6 +12,8 @@ Our security team will respond within three working days of your email.
 
 ## Submission Guidelines
 
+Submit your report as inline text in the email body. Do not attach files.
+
 To help us triage and resolve the issue efficiently, please include the following in your report:
 
 - **Title**: A concise, descriptive summary of the issue.
